@@ -1,4 +1,4 @@
-# Python Scripts :fire: 
+# Python Scripts 🐍
 
 ***
 
